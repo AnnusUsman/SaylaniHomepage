@@ -1,0 +1,312 @@
+
+#topband{
+    background-color: rgb(66, 103, 204);
+    color: white;
+    height: 50px;
+    text-align: center;
+    padding-top: 10px;
+}
+.first{
+    color: white;
+}
+
+th a{
+    text-decoration: none;
+    color: rgb(63, 60, 60);
+    font-family: serif;
+    
+}
+
+.para{
+   
+    position: relative;
+    left:20px;
+    height: 500px;
+    padding: 10px;
+    font-family: Arial, Helvetica, sans-serif;    
+}
+hr{
+    width: 30px;
+    background-color: green;
+    border: 1px solid green;
+    display: inline-block;
+    position: relative;
+    left: 425px;
+    bottom: 20px;
+}
+.small{
+    width: 40px;
+    height: 40px;
+    position: relative;
+    left: 425px;
+    bottom: 20px;
+}
+td h1,#h1{
+    text-align: center;
+    color:rgb(41, 82, 196);
+}
+#mar{
+    color: white;
+    background-color: rgb(66, 103, 204);
+    height: 30px;
+}
+span{
+    color:green
+}
+.spb{
+    color: blue;
+}
+.spg{
+    color: rgb(183, 238, 74);
+}
+#T2{
+    width: 100%;
+    height: 250px;
+    background-color: rgb(41, 82, 196);
+    color: white;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    
+    font-size: 20px;
+    text-align: center;
+}
+#logos td{
+    position: relative;
+    top: 30px;
+}
+#amount{
+    font-size: 55px;
+    font-family: 'Times New Roman', Times, serif;
+    padding: 5px;
+}
+#captions td{
+    position: relative;
+    bottom: 25px;
+}
+#logos td img{
+    width: 40px;
+    height: 40px;
+}
+.hr2{
+    position: relative;
+    left: 690px;
+    bottom: 20px;
+}
+.small2{
+    width: 40px;
+    height: 40px;
+    position: relative;
+    left: 690px;
+    bottom: 20px;
+}
+
+
+#edit,#edit2,#edit3,#edit4,#edit5,#edit6{
+    background-color: rgb(182, 182, 182);
+    width: 22%;
+    height: 190px;
+    text-align: center;
+    position: relative;
+    left: 200px;
+    color:rgb(41, 82, 196);
+    font-size: 20px;
+    border-radius: 20px;
+}
+#editin,#editin2,#editin3,#editin4,#editin5,#editin6{
+    position: relative;
+    top: 5px;
+    left: 1px;
+    background-color: white;
+    width: 100%;
+    height: 95%;
+}
+#edit img,#edit2 img,#edit3 img,#edit4 img,#edit5 img,#edit6 img{
+    position: relative;
+    top: 15px;
+}
+
+#edit2,#edit5{
+   position: relative;
+   left: 590px;
+   bottom: 190px;
+}
+#edit3,#edit6{
+    position: relative;
+   left: 1000px;
+   bottom: 380px;
+}
+#combine{
+    position: relative;
+    bottom: 340px;
+    height: 250px;
+}
+#editin4,#editin5,#editin6{
+    position: relative;
+    top: 0px;
+    height: 98%;
+}
+#mission{
+    
+    position: relative;
+    left: 200px;
+    bottom: 300px;
+    color:rgb(41, 82, 196);
+    height: 250px;
+}
+#mission #size{
+    
+    font-size: 25px;
+}
+.m1,.m2,.m3,.m4{
+    background-color: rgba(235, 235, 235, 0.842);
+    opacity: 90%;
+    width: 22%;
+    height: 60px;
+    font-size: 18px;
+
+}
+.m11,.m22,.m33,.m44{
+    position: relative;
+    left: 20px;
+    top: 5px;
+    color:rgb(41, 82, 196);
+    width: 100%;
+}
+.m2,.m4{
+    position: relative;
+    left: 400px;
+   bottom: 60px;
+   
+}
+#combo{
+    position: relative;
+    bottom: 40px;
+}
+#upcoming{
+    position: relative;
+    left: 780px;
+    bottom: 340px;
+    width: 22%;
+}
+#marq marquee{
+    scroll-behavior: smooth;
+    height: 150px;
+    position: relative;
+    bottom: 20px;
+    color:rgb(29, 28, 28);
+}
+.hr3{
+    position: relative;
+    left: 0px;
+    
+    width: 50px;
+}
+.hr4{
+    position: relative;
+    left: 0px;
+    bottom: 42px;
+    width: 100%;
+    opacity: 10%;
+    background-color: gray;
+}
+#T4 tr td img{
+    width: 100%;
+    height: 180px;
+    display: inline;
+}
+#images{
+    position: relative;
+    bottom: 230px;
+}
+
+
+
+
+
+#footer{
+    background-color: rgb(41, 40, 40);
+    height: 350px;
+}
+#margin{
+    padding-top: 80px;
+}
+
+.listinline{
+    list-style-type:none;
+}
+#addr{
+    margin-left:120px;
+    color: rgb(206, 204, 204);
+}
+#addr p{
+    margin-left: 50px;
+}
+.fa{
+    font-size: 30px;
+    width: 30px;
+    text-align: center;
+    text-decoration: none;
+    color: green;
+    padding: 5px;
+
+}
+
+
+#useful{
+    color: #ffffff;
+    position: relative;
+    left: 600px;
+    bottom: 220px;
+}
+
+
+
+#logos2 {
+    width: 50%;
+	height:300px;
+	color: white;
+	position:relative;
+    left: 950px;
+    bottom: 320px;
+    text-decoration: none;
+}
+  .fa-facebook,.fa-instagram,.fa-youtube,.fa-twitter{
+    color:  white;
+    background-color: rgb(60, 95, 192);
+    border-radius: 40%;
+    margin: 3px;
+}
+.fa-whatsapp{
+    background-color: rgb(78, 177, 78);
+    color: white;
+}
+.top{
+    width: 33%;
+    display: inline-block;
+    background-color: rgb(66, 103, 204);
+}
+button{
+    height: 30px;
+}
+.end{
+    background-color: rgb(66, 103, 204);
+    height: 40px;
+    position: relative;
+    bottom: 360px;
+    color: white;
+    border: 1px solid green;
+}
+.end p{
+    margin-left: 160px;
+    font-size: 13px;
+}
+#back{
+	width: 40%;
+    display: inline-block;
+}
+#back img{
+	height: 230px;
+	width: 200px;
+	position: relative;
+	bottom: 510px;
+	left:1300px;
+}
